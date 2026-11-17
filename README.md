@@ -2,7 +2,8 @@
 
 A DCGAN trained on 20,000 WikiArt paintings at 64×64, evaluated with FID and Inception Score using pytorch-ignite.
 
-![Generated samples](outputs/generated_samples.png)
+![Uploading generated_samples.png…]()
+
 
 ## Results
 
